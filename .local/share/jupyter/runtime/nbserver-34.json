@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/root",
+  "password": false,
+  "pid": 34,
+  "port": 8888,
+  "secure": false,
+  "token": "188ca87d38c6c0689b962ee1e51a6583b6e4311046cbfee6",
+  "url": "http://0.0.0.0:8888/"
+}
